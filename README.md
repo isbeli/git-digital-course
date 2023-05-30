@@ -5,7 +5,7 @@
 ## Curso Digital: Git/Versionamento
 
 ## Salvando modificações no Git
-** uso git log
-** uso do comenso restore
-** comando git push
-** comando git pull
+* uso git log
+* uso do comenso restore
+* comando git push
+* comando git pull
